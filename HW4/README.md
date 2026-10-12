@@ -22,3 +22,4 @@ The average probe length, which is indicative of the average access time, relies
 (1 slots with four elements * (5 probes for slot with four elements)) /13 total slots
 = 8/13 + 4/13 + 6/13 + 5/13 = 23/13
 = 1.77 Average Probe Length
+
