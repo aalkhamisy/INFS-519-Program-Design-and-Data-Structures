@@ -294,6 +294,8 @@ public class Table {
         averageProbe=probCount/hashTable.length;
         System.out.println("The average probe length="+averageProbe);
         return count;
+
+        
     }
 
 
